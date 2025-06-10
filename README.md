@@ -61,6 +61,6 @@ CORS_ORIGIN=http://localhost:5173
 ### Platform, Libraries and Frameworks used
 1. [NodeJS](https://nodejs.org)
 2. [ExpressJS](https://expressjs.org)
-3. [TypeScript.JS]([https://expressjs.org](https://www.typescriptlang.org/))
+3. [TypeScript.JS](https://expressjs.org](https://www.typescriptlang.org/)
 
 
